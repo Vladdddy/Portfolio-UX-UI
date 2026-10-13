@@ -182,9 +182,9 @@
     justify-content: center;
     gap: 0.25rem;
     padding: 6rem 1.25rem 3rem;
-    background: rgb(242 242 242 / 92%);
-    backdrop-filter: blur(18px);
-    -webkit-backdrop-filter: blur(18px);
+    background: rgb(242 242 242 / 70%);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
     opacity: 0;
     visibility: hidden;
     transition:
