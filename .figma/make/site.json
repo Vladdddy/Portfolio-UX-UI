@@ -1,0 +1,14 @@
+{
+  "title": "Vladyslav Portfolio",
+  "description": "Showcase your work with a modern, clean portfolio designed for creatives and professionals, enhancing visibility and attracting potential clients.",
+  "icons": {
+    "icon": "/blobs-favicon.svg"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
